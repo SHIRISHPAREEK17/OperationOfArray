@@ -174,11 +174,6 @@ class OperationOfArray{// Class name in Title case
                 default:
                     System.out.println("Invalid selection");
                }
-            
-      
-
-
-     
       }
     } 
 }
